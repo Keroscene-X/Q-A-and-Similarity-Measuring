@@ -1,4 +1,4 @@
-# INFO4001-4002
+# Question answering and similarity measuring on unit outlines based on Large Language Model and Vector Database 
 
 ## Installation
 Install the module with pip:
